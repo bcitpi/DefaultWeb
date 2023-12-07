@@ -1,1 +1,3 @@
 This is a sample
+
+Commit #2 during squash activity
